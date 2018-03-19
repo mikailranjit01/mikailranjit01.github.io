@@ -1,0 +1,25 @@
+h1 {
+	color: red;
+	margin-bottom: 50px;
+	background: black;
+	font-family: 'Shadows Into Light', cursive;
+	text-align: center;
+}
+h2 {
+	color:006666;
+	text-align: right;
+	}
+
+img{
+	margin:auto;
+	display:block;
+}
+
+h1 span.first-half {
+	color: white;
+	font-size:4	0px;
+}
+
+h1 span.second-half{
+	font-size: 50px;
+}
